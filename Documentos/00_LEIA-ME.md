@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
+- Curso e disciplina: `ADS - DESIGN PROFISSIONAL`
+- Professor ou orientador: `Isabella Luiza Dos Santos Souza`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Integrantes: `Beatriz Naomi Murakami Pires - Giovana Bastos - Hugo Gabriel Araújo Honorato - Vinicius Lunardi Fernandes Peixoto`
+- Data de início: `24/09/2026`
 
 
 
