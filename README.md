@@ -1,2 +1,2 @@
-# Documetos
-24_09_2026
+# Resumo acadêmico
+Resumo de natureza teórica e perspectiva qualitativa com base em artigos científicos.
