@@ -6,19 +6,19 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`Auxilio guia para orientação dos idosos e pessoas  deficientes a navegação online`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`Quais são as principais dificuldades desse público ao navegar/utilizar aplicativos e sites `
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
+- O que se deseja descobrir ou compreender? `O que pode facilitar a vida digital desses usuários`
+- Qual é o objeto da pergunta? `Ajudar a melhorar/refletir as condições do uso da tecnologia moderna de cada pessoa. `
 - Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- A pergunta pode ser respondida por artigos científicos? `Sim`
+- Por que essa pergunta é relevante? `Pois nos ajuda a compreender onde esses usuários possuem as maiores dificuldades, e assim buscar a melhor solução para o problema/incluí-los ainda mais na era da tecnologia.l `
 
 ## Produto da etapa
 
@@ -26,11 +26,11 @@ Pergunta de pesquisa aprovada.
 
 ## Checklist
 
-- [ ] Está escrita em forma de pergunta.
-- [ ] É clara e objetiva.
-- [ ] Está alinhada ao tema.
-- [ ] Pode ser respondida por revisão bibliográfica.
-- [ ] Não exige experimento que não será realizado.
+- [V] Está escrita em forma de pergunta.
+- [V] É clara e objetiva.
+- [V] Está alinhada ao tema.
+- [V] Pode ser respondida por revisão bibliográfica.
+- [V] Não exige experimento que não será realizado.
 
 ## Contribuições
 
