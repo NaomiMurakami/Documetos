@@ -18,12 +18,12 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`Auxilio guia para orientação dos idosos e pessoas  deficientes a navegação online`
+`Auxilio guia para orientação dos idosos e pessoas com deficiencia a navegação online`
 
 ### Do tema amplo ao específico
 
 - Tema amplo: `Inclusão digital e redução de desigualdades`
-- Objeto estudado: `Dificuldade dos idosos e deficientes a navegação em sites, app e sistemas`
+- Objeto estudado: `Dificuldade dos idosos e pessoas com deficiencia a navegação em sites, app e sistemas`
 - Contexto ou aplicação: `Acessibilidade`
 - Aspecto que será analisado: `Desenvolvimento de um guia prático de acessibilidade e boas práticas do uso de ferramentas digitais por idosos e pessoas com deficiência.`
 - O que ficará fora do estudo: `Livros e entrevistas`
